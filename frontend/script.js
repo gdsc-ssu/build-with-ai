@@ -6,7 +6,7 @@ window.addEventListener("load", (event) => {
 });
 
 const PROXY_URL = "ws:localhost:8080";
-const PROJECT_ID = "buildwithai-458915";
+const PROJECT_ID = "GCP Project ID";
 const MODEL = "gemini-2.0-flash-live-preview-04-09";
 const API_HOST = "us-central1-aiplatform.googleapis.com";
 
